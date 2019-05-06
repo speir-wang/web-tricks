@@ -1,12 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "web-tricks",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "A blog for learning Front-end development skills",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
+  "author": "He Wang <speir.wang@gmail.com>",
   "dependencies": {
     "gatsby": "^2.4.2",
     "gatsby-image": "^2.0.41",
