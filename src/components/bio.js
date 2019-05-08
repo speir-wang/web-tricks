@@ -38,12 +38,9 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in
-              Melbourne building not that useless things.
-              {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                Follow me if you want :)
-              </a>
+              Written by <strong>{author}</strong> who is building not that
+              useless things. {` `}
+              <a href={`https://twitter.com/${social.twitter}`}>Twitter</a>
             </p>
           </div>
         )
